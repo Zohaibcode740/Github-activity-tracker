@@ -1,8 +1,8 @@
-# 🐙 GitHub Pro Activity Dashboard
+🐙 GitHub Activity Analytics Dashboard
 
-A beautiful **Streamlit-based dashboard** that visualizes GitHub activity — including repositories, languages, followers, PRs, issues, and event timelines.  
-Perfect for developers who want to **analyze and showcase their GitHub performance** in real time. 🚀  
+A sleek Streamlit-powered dashboard designed to track and visualize GitHub activity — from repositories and programming languages to followers, pull requests, issues, and contribution timelines.
 
+Built for developers who want to monitor, understand, and showcase their GitHub presence with real-time insights. 🚀
 ---
 
 ## 🌟 Features
